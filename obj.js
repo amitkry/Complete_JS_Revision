@@ -10,3 +10,10 @@ const dict={
 console.log(dict.name)
 console.log(dict.phone_number)
 console.log(dict.marks)
+
+console.log(dict)
+
+// to add a new key:value pair in the objct
+
+dict.roll_number="CSE/070/20";
+console.log(dict)
